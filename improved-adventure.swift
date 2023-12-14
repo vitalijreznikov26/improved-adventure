@@ -1,0 +1,6 @@
+    case changeZPosition(Int)
+    case changeBlur(Blur)
+    case changeAdjustments(Adjustments)
+    case changeFilter(ColorFilter?)
+case changeVideoSettings(VideoSettingsModification)
+    case changeMask(MaskSettingsModification)
